@@ -1,4 +1,4 @@
-#  Amazon Clone
+#  Shopping_Site
 
 A frontend Amazon-inspired website built using HTML and CSS.
 
@@ -9,7 +9,7 @@ This project is a practice implementation of an Amazon-style e-commerce website.
 ##  Technologies Used
 
 - HTML
-- CSS3
+- CSS
 
 ##  Features
 
